@@ -12,16 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Set up docusaurus cache
-      uses: actions/cache@v3
-      with:
-        path: doc-site/.yarn/.cache/webpack
-        key: ${{ runner.os }}-doc-site-docusaurus-${{ github.ref }}
-        restore-keys: |
-          ${{ runner.os }}-doc-site-docusaurus-${{ github.ref }}
-          ${{ runner.os }}-doc-site-docusaurus-
-    - name: Install libvips42
-      run: sudo apt-get update && sudo apt-get install libvips42
     - name: install node
       uses: actions/setup-node@v3
       with:
