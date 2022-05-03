@@ -6,8 +6,13 @@ const STORIES = [
   "a rogue with a heart of gold",
   "a young seeker of fame and fortune",
   "a 5-foot tall carpenter ant",
-  "the captain of the USS Enterprise",
+  "the captain of a starship",
   "a Tyrannosaurus Rex",
+  "a Venetian snail farmer",
+  "a gladiator",
+  "trying to be employee of the month",
+  "a disgraced mafia Don",
+  "a precious cinnamon role",
 ];
 
 const SKILLS = [
@@ -16,13 +21,35 @@ const SKILLS = [
   "knife throwing",
   "card tricks",
   "stenography",
-  "steganography",
+  "lockpicking",
+  "sneaking",
+  "animal handling",
+  "stealing",
+  "astrology",
+  "bluffing",
+  "encouragement",
+  "disarming traps",
+  "flirting",
+  "intimidation",
+  "impersonation",
 ];
 
 const FLAWS = [
   "can only form sentences with up to 4 words",
   "are constantly sneezing",
   "have a fear of mathematics",
+  "steal",
+  "flirt",
+  "have delusions of grandeur",
+  "are forgetful",
+  "are greedy",
+  "are stubborn",
+  "are paranoid",
+  "are spoiled",
+  "are egotistical",
+  "are obsessed with the nearest shiny object",
+  "are hoity toity",
+  "won't touch people",
 ];
 
 Synth(JZZ);
