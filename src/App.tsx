@@ -40,7 +40,7 @@ function BreakroomScene() {
 
 function App() {
   return (
-    <Canvas style={{ height: "100vh", width: "100vw" }}>
+    <Canvas>
       <BreakroomScene />
     </Canvas>
   );
