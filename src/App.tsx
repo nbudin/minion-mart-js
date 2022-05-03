@@ -119,7 +119,7 @@ function Spinion() {
   };
 
   return (
-    <>
+    <div>
       <div style={{ fontSize: "120%", marginBottom: "1em" }}>
         They are {story}
         <br />
@@ -130,7 +130,7 @@ function Spinion() {
       <button type="button" onClick={roll} disabled={rolling}>
         Roll the dice!
       </button>
-    </>
+    </div>
   );
 }
 
