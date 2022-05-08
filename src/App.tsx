@@ -13,7 +13,6 @@ const STORIES = [
   "trying to be employee of the month",
   "a disgraced mafia Don",
   "a precious cinnamon roll",
-  "guardian of the nuclear pants",
   "a man-child",
   "an indie song writer",
   "a rubber dinosaur",
@@ -27,6 +26,7 @@ const STORIES = [
   "an undercover IRS agent",
   "a doctor with a fake degree",
   "a lawyer who sold their heart of gold",
+  "a lawyer",
   "an explosive expert",
   "a shopaholic teenager",
   "a plucky teenage investigator",
@@ -45,6 +45,10 @@ const STORIES = [
   "a middle school math teacher",
   "a call center worker",
   "a foest nymph",
+  "an HOA president",
+  "a surfer dude",
+  "a house cat",
+  "a super powered armadillo",
 ];
 
 const SKILLS = [
@@ -95,6 +99,9 @@ const SKILLS = [
   "speaks eloquently",
   "sews costumes",
   "uses mirrors",
+  "has a beautiful singing voice",
+  "invents contraptions",
+  "gives great mani/pedis",
 ];
 
 const FLAWS = [
@@ -133,7 +140,7 @@ const FLAWS = [
   "are that uncle",
   "constantly burp",
   "are bad at being surprised",
-  "cry during dramatic movies",
+  "cry during dramatic moments",
   "cannot stay still",
   "are afraid of the dark",
   "get drunk and make it weird",
@@ -142,7 +149,12 @@ const FLAWS = [
   "LOVE bread",
   "have explosive flatulence",
   "are obsessed with being weird",
-  "they base their entire personality on it",
+  "base their entire personality on it",
+  "wear nuclear pants",
+  "are looking for love",
+  "bruise easily",
+  "cannot control their body",
+  "have a very annoying voice",
 ];
 
 Synth(JZZ);
