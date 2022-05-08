@@ -19,6 +19,15 @@ const STORIES = [
   "a rubber dinosaur",
   "a heroic plumber",
   "a billionaire genius philanthropist",
+  "an airship pirate",
+  "an escaped criminal",
+  "a birthday clown",
+  "a ghost",
+  "a clueless wanderer",
+  "an undercover IRS agent",
+  "a doctor with a fake degree",
+  "a lawyer who sold their heart of gold",
+  "an explosive expert",
 ];
 
 const SKILLS = [
@@ -43,6 +52,15 @@ const SKILLS = [
   "make poison",
   "bake",
   "evade punches",
+  "haggle",
+  "win bets",
+  "do cartwheels",
+  "care for kids",
+  "make baloon animals",
+  "luck out",
+  "play pretend",
+  "be literal",
+  "play the violin",
 ];
 
 const FLAWS = [
@@ -65,6 +83,15 @@ const FLAWS = [
   "spit",
   "whine all the time",
   "are allergic to irony",
+  "are afraid of heights",
+  "are illiterate",
+  "speaks in metaphors",
+  "forgot to shower",
+  "are afraid of children",
+  "play pretend",
+  "the 1%",
+  "are a pathological liar",
+  "have sensitive ears",
 ];
 
 Synth(JZZ);
