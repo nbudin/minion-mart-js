@@ -12,7 +12,7 @@ const STORIES = [
   "a gladiator",
   "trying to be employee of the month",
   "a disgraced mafia Don",
-  "a precious cinnamon role",
+  "a precious cinnamon roll",
   "guardian of the nuclear pants",
 ];
 
