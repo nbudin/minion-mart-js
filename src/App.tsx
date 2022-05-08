@@ -28,6 +28,12 @@ const STORIES = [
   "a doctor with a fake degree",
   "a lawyer who sold their heart of gold",
   "an explosive expert",
+  "a shopaholic teenager",
+  "a plucky teenage investigator",
+  "a cephalopod",
+  "an old fisherman",
+  "a bettle man",
+  "a perpetual mom",
 ];
 
 const SKILLS = [
@@ -61,6 +67,12 @@ const SKILLS = [
   "play pretend",
   "be literal",
   "play the violin",
+  "have super strength",
+  "are fashionable",
+  "do gymnastics",
+  "do archery",
+  "whittle",
+  "shrinks",
 ];
 
 const FLAWS = [
@@ -92,6 +104,12 @@ const FLAWS = [
   "the 1%",
   "are a pathological liar",
   "have sensitive ears",
+  "like to throw stuff",
+  "are hangry",
+  "prank",
+  "won't get it",
+  "are that uncle",
+  "constantly burp",
 ];
 
 Synth(JZZ);
@@ -192,7 +210,7 @@ function Spinion() {
       <div style={{ fontSize: "120%", marginBottom: "1em" }}>
         They are {story}
         <br />
-        who can {skill}
+        who {skill}
         <br />
         but watch out, they {flaw}
       </div>
