@@ -13,6 +13,7 @@ const STORIES = [
   "trying to be employee of the month",
   "a disgraced mafia Don",
   "a precious cinnamon role",
+  "guardian of the nuclear pants",
 ];
 
 const SKILLS = [
@@ -155,7 +156,7 @@ function Spinion() {
         but watch out, they {flaw}
       </div>
       <button type="button" onClick={roll} disabled={rolling}>
-        Roll the dice!
+        Bring Forth The Minion!
       </button>
     </div>
   );
