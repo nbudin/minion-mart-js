@@ -151,7 +151,7 @@ function Spinion() {
       <div style={{ fontSize: "120%", marginBottom: "1em" }}>
         They are {story}
         <br />
-        who can do {skill}
+        who can {skill}
         <br />
         but watch out, they {flaw}
       </div>
