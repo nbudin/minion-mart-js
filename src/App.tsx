@@ -34,6 +34,17 @@ const STORIES = [
   "an old fisherman",
   "a bettle man",
   "a perpetual mom",
+  "a kindly space wizard",
+  "a trapeze artist",
+  "a disaster journalist",
+  "a 13th century queen",
+  "a vampire who's over it",
+  "a ventriloquist",
+  "a sentient banana",
+  "an accountant",
+  "a middle school math teacher",
+  "a call center worker",
+  "a foest nymph",
 ];
 
 const SKILLS = [
@@ -73,6 +84,17 @@ const SKILLS = [
   "do archery",
   "whittle",
   "shrinks",
+  "climbs walls",
+  "is great at sternly worded letters",
+  "has impeccable comedic timing",
+  "does accents",
+  "is very enthusiastic",
+  "can do the worm",
+  "understands 'the lingo'",
+  "solves crimes",
+  "speaks eloquently",
+  "sews costumes",
+  "use mirrors",
 ];
 
 const FLAWS = [
@@ -110,6 +132,17 @@ const FLAWS = [
   "won't get it",
   "are that uncle",
   "constantly burp",
+  "are bad at being surprised",
+  "cry during dramatic movies",
+  "cannot stay still",
+  "are afraid of the dark",
+  "get drunk and make it weird",
+  "laugh in inappropriate moments",
+  "speak in memes",
+  "LOVE bread",
+  "have explosive flatulence",
+  "are obsessed with being weird",
+  "they base their entire personality on it",
 ];
 
 Synth(JZZ);
