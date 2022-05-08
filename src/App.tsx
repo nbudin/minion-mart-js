@@ -54,6 +54,17 @@ const STORIES = [
   "a dragon",
   "a rock monster",
   "a hipster",
+  "a train conductor",
+  "a werecow",
+  "a wererabbit",
+  "a fairy that made a mistake",
+  "a mediocre genie",
+  "a zombie wrangler",
+  "a kiwi",
+  "an AI",
+  "a bookworm",
+  "a beekeeper",
+  "a little pig",
 ];
 
 const SKILLS = [
@@ -112,6 +123,18 @@ const SKILLS = [
   "commits arson",
   "is good at getting their way",
   "knows how to forage",
+  "has catlike reflexes",
+  "knows woodworking",
+  "knows where the good food is",
+  "has an excellent sense of smell",
+  "knows first aid",
+  "is good at hand to hand combat",
+  "a harpsichord",
+  "can hear the sound track",
+  "summons sheep",
+  "is very memorable",
+  "is very organized",
+  "rides clouds",
 ];
 
 const FLAWS = [
@@ -171,6 +194,17 @@ const FLAWS = [
   "hate clothes",
   "are a hipster",
   "always leave a pizza as their calling card",
+  "steal snacks",
+  "have crippling insecurity",
+  "pronounce it 'GIF'",
+  "are night blind",
+  "constantly say 'mood'",
+  "are soooo bored",
+  "split the party",
+  "summon sheep",
+  "are tone deaf",
+  "steal keys",
+  "squeal",
 ];
 
 Synth(JZZ);
