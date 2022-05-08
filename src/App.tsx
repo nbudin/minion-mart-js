@@ -49,6 +49,11 @@ const STORIES = [
   "a surfer dude",
   "a house cat",
   "a super powered armadillo",
+  "a monk",
+  "grocery store loyalty",
+  "a dragon",
+  "a rock monster",
+  "a hipster",
 ];
 
 const SKILLS = [
@@ -102,6 +107,11 @@ const SKILLS = [
   "has a beautiful singing voice",
   "invents contraptions",
   "gives great mani/pedis",
+  "is speedy",
+  "is learning humility",
+  "commits arson",
+  "is good at getting their way",
+  "knows how to forage",
 ];
 
 const FLAWS = [
@@ -155,6 +165,12 @@ const FLAWS = [
   "bruise easily",
   "cannot control their body",
   "have a very annoying voice",
+  "can't speak to the opposite sex",
+  "sneeze explosions",
+  "are obsessed with books",
+  "hate clothes",
+  "are a hipster",
+  "always leave a pizza as their calling card",
 ];
 
 Synth(JZZ);
