@@ -158,7 +158,7 @@ const SKILLS = [
   "makes gourmet food",
   "knows kung fu",
   "has infectious laughter",
-  "improves weaponry",
+  "improvises weaponry",
 ];
 
 const FLAWS = [
@@ -240,6 +240,7 @@ const FLAWS = [
   "are addicted to juice boxes",
   "are only happy when it rains",
   "hate to be looked at",
+  "bite",
 ];
 
 Synth(JZZ);
