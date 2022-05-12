@@ -342,7 +342,7 @@ function Spinion() {
         <br />
         who {skill}
         <br />
-        but watch out, they {flaw}
+        but watch out, they {flaw}.
       </div>
       <button type="button" onClick={roll} disabled={rolling}>
         Bring Forth The Minion!
